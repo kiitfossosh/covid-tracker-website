@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Oswald:400,500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="main.css">
+    <title>Covid-19 Counter</title>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="content">
+            <!-- <canvas id="canvas"></canvas> -->
+            <div class="mainImage">
+                <img class="covidFull" src="covid.png" alt="">
+                <img class="covidHalf" src="coronaHalf.png" alt="Covid Mobile">
+            </div>
+            <div class="left">
+                <p id="casses">cases: <span class="cassesLabel"></span> </p>
+                <!-- <p id="viewCountry">view by country</p> -->
+
+                <p id="deaths">deaths: <span class="deathsLabel"></span> </p>
+
+                <p id="recovered">recovered: <span class="recoveredLabel"></span> </p>
+            </div>
+            <div class="right">
+                <p>STAY</p>
+    
+                <div class="logo">
+                    <a href="https://www.covid19india.org/"><img src="icmr.png" alt=""></a>
+                </div>
+
+                <p>SAFE</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="bundle.js"></script>
+</body>
+</html>
