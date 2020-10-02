@@ -1,9 +1,9 @@
 # Covid Tracking Webiste
-The 2020 COVID 19 (SARS Coronavirus) has turned out to be the worst pandemic in modern records of the human
+The 2020 COVID 19 (SARS Coronavirus) has turned out to be the worst pandemic in modern history of the human
 civilisation. 
-With over 34.5 million confirmed COVID-19 cases till date , it is important that awareness about this disease is spread through whatever means possible.
+With over 34.5 million confirmed COVID-19 cases till date, it is important that awareness about this disease is spread through whatever means possible.
 
-**This is one such project in which current statistics related to COVID-19 outbreak are fetched and displayed , in a way understandable by the common man**
+**This is one such project in which current statistics related to COVID-19 outbreak are fetched and displayed, in a way understandable by the common man**
 
 ## What is Covid-19
 In early 2020, after the December 2019 outbreak of an unknown virus in China, the World Health Organization identified SARS-CoV-2 or Covid 19 as a new type of coronavirus. The outbreak quickly spread around the world and has led to world wide disruption of industries.
