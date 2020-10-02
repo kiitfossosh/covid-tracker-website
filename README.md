@@ -1,4 +1,4 @@
-# Covid Tracking Webiste
+# Covid Tracker Webiste
 The 2020 COVID 19 (SARS Coronavirus) has turned out to be the worst pandemic in modern history of the human
 civilisation. 
 With over 34.5 million confirmed COVID-19 cases till date, it is important that awareness about this disease is spread through whatever means possible.
